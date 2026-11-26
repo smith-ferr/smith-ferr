@@ -57,7 +57,7 @@ A pós-graduação tem consolidado essas práticas e também se reflete no desen
 ### 🧭 Mapeamento e testes das telas do sistema
 Tive a oportunidade e a abertura para **trazer o Cypress para a empresa** e iniciar a implementação dos testes automatizados com a ferramenta. A iniciativa, ainda em andamento e conduzida em paralelo às demais demandas do dia a dia, tem como meta mapear e testar **todas as telas utilizadas pelo usuário** no sistema de gestão patrimonial, em duas etapas:
 
-1. **Telas de cadastro primeiro** (criar, consultar, editar e excluir): **26 cenários já automatizados em 22 arquivos de teste**
+1. **Telas de cadastro primeiro** (criar, consultar, editar e excluir): **mais de 20 telas já automatizadas**
 2. **Depois, as demais funcionalidades** do sistema
 
 ### 🎨 Novo visual para um sistema legado
